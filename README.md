@@ -14,8 +14,8 @@
      </div>
    
   
-    <div style="display: flex;flex-direction: column;flex-basis: 100%;flex: 1;">      
+         
         <p>Daniel Santos</p>
-    </div>
+   
   </div>
 </div>
